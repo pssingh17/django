@@ -1,1 +1,1 @@
-shopping cart in python/django and vanilla javascript
+Ecommerce site in python/django and vanilla javascript
